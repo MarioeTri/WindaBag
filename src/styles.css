@@ -133,6 +133,15 @@ img {
   width: 100%;
 }
 
+.nav a.nav-admin {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.nav a.nav-admin:hover {
+  color: var(--brand-700);
+}
+
 /* ─── Hero ─── */
 
 .hero {
